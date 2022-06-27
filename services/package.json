@@ -1,0 +1,13 @@
+{
+  "name": "@graphql-apollo-sst/services",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "apollo-server-lambda": "^3.9.0",
+    "aws-sdk": "^2.1162.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.101"
+  }
+}
